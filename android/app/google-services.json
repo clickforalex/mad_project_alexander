@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943739359293",
+    "project_id": "alexproject2-63782",
+    "storage_bucket": "alexproject2-63782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943739359293:android:23868bc1cc46526b221a54",
+        "android_client_info": {
+          "package_name": "com.example.mad_project_alexander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943739359293-e7thij2efud4at636nsrkchupmmcmr94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsAD2bEekNdbVxCh3foJHDpfGW6c4BNww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943739359293-e7thij2efud4at636nsrkchupmmcmr94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
